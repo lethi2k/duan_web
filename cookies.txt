@@ -1,0 +1,25 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+static.chiccdn.com	TRUE	/	FALSE	1999999999	route	d9538168766992a29a7608fa92f91837
+sea.newchic.com	TRUE	/	FALSE	1999999999	currency	VND
+sea.newchic.com	TRUE	/	FALSE	1999999999	default_rule_warehouse	230%7CCN
+sea.newchic.com	TRUE	/	FALSE	1999999999	akaas_CARTAB	2147483647~rv=22~id=4e07279072d67024a35f049751dae35e
+sea.newchic.com	TRUE	/	FALSE	1999999999	__ACCESS	1
+sea.newchic.com	TRUE	/	FALSE	1999999999	akaas_ClearanceAB	2147483647~rv=23~id=a09e5907863b16818e6cad9460c296f2
+sea.newchic.com	TRUE	/	FALSE	1999999999	akaas_NCCAB	2147483647~rv=92~id=486e52404fb00cb8fdef476a14e28131
+sea.newchic.com	TRUE	/	FALSE	1999999999	akaas_CategoryAB	2147483647~rv=31~id=b1675af380957411137f82bd9ea2c96d
+sea.newchic.com	TRUE	/	FALSE	1999999999	SameSite	None
+.hiselling.com	TRUE	/	FALSE	1999999999	__cfduid	de2f54600129181dfb37cc22b7a4af42d1599376420
+static.hiselling.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+sea.newchic.com	TRUE	/	FALSE	1999999999	aff_p_code	deleted
+www.newchic.com	TRUE	/	FALSE	1999999999	nc-country-code	VN
+newchic.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+.newchic.com	TRUE	/	FALSE	1999999999	newchic_SID	997079ebc8e802f50ca34aa00867ce77
+sea.newchic.com	TRUE	/	FALSE	1999999999	_bgLang	en-GB
+sea.newchic.com	TRUE	/	FALSE	1999999999	default_rule_country	230
+sea.newchic.com	TRUE	/	FALSE	1999999999	generalAbTest	68
+sea.newchic.com	TRUE	/	FALSE	1999999999	_abtest	1
+sea.newchic.com	TRUE	/	FALSE	1999999999	_freeshipText	Over+%3Cem+class%3D%22red+js-price-ceil%22+oriprice%3D%2269.00%22%3E1.644.948%E2%82%AB%3C%2Fem%3E%3Cem+class%3D%22red%22%3E%2B%3C%2Fem%3E+Free+shipping
+sea.newchic.com	TRUE	/	FALSE	1999999999	_conversionType	ASIA
+sea.newchic.com	TRUE	/	FALSE	1999999999	nc-country-code	VN
+
